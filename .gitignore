@@ -1,0 +1,6 @@
+# Ignore data set
+
+**/Augmented_data
+**/test
+**/train
+**/validation
